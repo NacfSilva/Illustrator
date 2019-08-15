@@ -125,9 +125,15 @@ footer1 {
 
 .NunoSilva{
     color:gray;
+    text-decoration: none;
     
 }
 
+.NunoSilva:hover{
+    color:#CF381D;
+    text-decoration: none;
+    
+}
 
 /* form */
 
