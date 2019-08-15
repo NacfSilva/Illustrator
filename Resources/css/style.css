@@ -63,6 +63,20 @@ logo span{
 }
 
 
+/* svg vero icon*/
+
+.vero-icon{
+    
+    width:2em;
+    height:2em;
+   margin-bottom:22px;
+
+    
+}
+.large{
+    font-size: large;
+}
+
 
 /* Footer */
 .social:hover {
@@ -89,14 +103,15 @@ logo span{
  #social-fb:hover {
      color: #3B5998;
  }
- #social-tw:hover {
-     color: #4099FF;
+ #social-in:hover {
+     color: #66269e;
  }
- #social-gp:hover {
-     color: #d34836;
- }
+
  #social-em:hover {
      color: #f39c12;
+ }
+.vero-icon:hover {
+     fill: #1aa3a2!important;
  }
 
 footer1 {
