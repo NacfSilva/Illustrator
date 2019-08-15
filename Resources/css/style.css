@@ -179,5 +179,30 @@ footer1 {
 
 
 
+/* hidden images */
 
+.hidden{
+    display: none;
+}
 
+.loadMore {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    width: 100%;
+    
+}
+.loadMore a {
+    border: 1px #bbb solid;
+    border-radius: 3px;
+    color: #bbb;
+    display: inline-block;
+    padding: 10px 30px;
+    transition: all 0.25s ease-out;
+    text-decoration: none;
+}
+.loadMore a:hover {
+    background-color: #bbb;
+    color: white;
+    text-decoration: none;
+}
