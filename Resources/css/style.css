@@ -47,6 +47,13 @@ body{
     color: #CF381D!important
 }
  
+.text33{
+    
+    background: rgba(255,255,255,0.5) !important;
+    display: block; 
+    left:25%;
+}
+
 
 
 /*  image effect  */
@@ -111,7 +118,7 @@ logo span{
      color: #f39c12;
  }
 .vero-icon:hover {
-     fill: #1aa3a2!important;
+     fill: #1aa3a2;
  }
 
 footer1 {
@@ -158,7 +165,7 @@ footer1 {
              filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
          -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083";
     position: absolute;
-    top:50%;
+    top:40%;
     left: 0px;
     color: black;
     z-index: 99999;
@@ -172,7 +179,7 @@ footer1 {
              filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
          -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083";
     position: absolute;
-    top:45%;
+    top:35%;
     left: 0px;
     color: black;
     z-index: 99999;
@@ -185,7 +192,7 @@ footer1 {
              filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
          -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083";
     position: absolute;
-    top:50%;
+    top:40%;
     left: 13px;
     color: black;
     z-index: 99999;
@@ -198,13 +205,24 @@ footer1 {
              filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
          -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083";
     position: absolute;
-    top:55%;
+    top:45%;
     left: 0px;
     color: black;
     z-index: 99999;
     position: fixed;
 }
-
+#rotate4{
+-moz-transform: rotate(270.0deg);  /* FF3.5+ */
+       -o-transform: rotate(270.0deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(270.0deg);  /* Saf3.1+, Chrome */
+             filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083);  /* IE6,IE7 */
+         -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083";
+    position: absolute;
+    top:150%;
+    left: 0px;
+    color: black;
+    position: absolute;
+}
 
 
 /* hidden images */
