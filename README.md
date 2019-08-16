@@ -2,4 +2,4 @@
 Website for Rita Isabel, an illustrator.
 
 
-https://ritaisabel.netlify.com
+https://ritaisabel.com
