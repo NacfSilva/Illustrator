@@ -310,6 +310,7 @@ footer1 {
     left: 47.5%;
     position:absolute;
     text-decoration: none;
+     display: flex;
     color:#CF381D;
      animation: shake 2s;
   text-shadow: -0.5px -0.5px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000;
